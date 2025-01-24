@@ -1,6 +1,8 @@
 # Customer-Segmentation-RFM-Analysis
 SpicyFood management has hired you to create a dashboard with key statistics about their customers. For this they have asked you to create a customer segmentation dashboard for SpicyFood management. The analysis will focus on creating different customer segments based on age, customer tiers, and average bill per customer. You have been provided the following CSV file which contains the data of customer orders.
 
+![image alt(https://github.com/Anup-Raut/Customer-Segmentation-RFM-Analysis/blob/68d80818c1cd593a9bdd326a3e60b85e44b7282c/Screenshot%20(196).png)]
+
 Here are the key insights derived from the customer segmentation dashboard for SpicyFood management:
 
 Total Purchases: The total purchase value recorded is ₹1,79,500 across 107 orders, with an average purchase amount of ₹5,129 per customer.
